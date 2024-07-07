@@ -576,7 +576,7 @@ export const users = [
     ip_location: 'IP属地：浙江',
     max_follower_count: 1737948,
     mplatform_followers_count: 1807606,
-    nickname: '杨老虎🐯（磕穿下巴掉牙版）',
+    nickname: '喃娘',
     province: '广东',
     public_collects_count: 0,
     share_info: {
@@ -601,10 +601,10 @@ export const users = [
     },
     short_id: '0',
     signature:
-      '每晚12:00直播 韩舞业余，专业蹦迪！\n虎的小号@杨巅峰🐑🐯 \n💜商务V：Joymedia7 💜\n💙这辈子人潮汹涌 遇到你  我很幸运💙',
+      '喃娘',
     total_favorited: 10295529,
     uid: '2739632844317827',
-    unique_id: '12345xiaolaohu',
+    unique_id: '已隐藏',
     user_age: 27,
     white_cover_url: [
       {
